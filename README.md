@@ -1,4 +1,4 @@
-ขั้นตอนการรันโปรแกรม
+ขั้นตอนการรันโปรแกรม/n
 1.เปิดโฟลเดอร์ "webhook4" ที่ Visual Studio
 2.ให้ทำการพิมพ์คำสั่ง "cd isaan-recipes-bot" ที่ Terminal ของ Visual Studio
 3.พิมพ์คำสั่ง "npm run dev" ที่ Terminal ของ Visual Studio เพื่อรันโปรแกรม
